@@ -3,34 +3,34 @@ import images from "./images";
 const services = [
     {
         image: `${images.services_img_1}`,
-        title: "Web Design",
-        paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
+        title: "Web Design & dev",
+        paragraph: "I design my websites to be responsive, delivering optimum performance and visuals for all devices. This basically means that each of you users will get a tailored browsing experience for desktop's , iPone's , Android's and tablet PC's like the iPad ."
     },
-    {
-        image: `${images.services_img_2}`,
-        title: "Branding",
-        paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
-    },
-    {
-        image: `${images.services_img_3}`,
-        title: "UX Design",
-        paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
-    },
-    {
-        image: `${images.services_img_4}`,
-        title: "Logo Create",
-        paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
-    },
-    {
-        image: `${images.services_img_5}`,
-        title: "Illustration",
-        paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
-    },
-    {
-        image: `${images.services_img_6}`,
-        title: "Graphics",
-        paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
-    },
+    // {
+    //     image: `${images.services_img_2}`,
+    //     title: "Branding",
+    //     paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
+    // },
+    // {
+    //     image: `${images.services_img_3}`,
+    //     title: "UX Design",
+    //     paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
+    // },
+    // {
+    //     image: `${images.services_img_4}`,
+    //     title: "Logo Create",
+    //     paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
+    // },
+    // {
+    //     image: `${images.services_img_5}`,
+    //     title: "Illustration",
+    //     paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
+    // },
+    // {
+    //     image: `${images.services_img_6}`,
+    //     title: "Graphics",
+    //     paragraph: "Vivamus a accumsan mauris. Nunc sodales lacus nec felis suscipit dictum. Mauris auctor enim in justo euismod imperdiet."
+    // },
 ];
 
 const works = [
@@ -43,15 +43,7 @@ const works = [
     {
         image: `${images.work_img_3}`
     },
-    {
-        image: `${images.work_img_4}`
-    },
-    {
-        image: `${images.work_img_5}`
-    },
-    {
-        image: `${images.work_img_6}`
-    },
+    
 ];
 
 const work_process = [

@@ -4,6 +4,9 @@
 .work-item{
     position: relative;
 }
+.work-item> img{
+    height:25rem;
+}
 .work-item::after{
     content: "";
     position: absolute;

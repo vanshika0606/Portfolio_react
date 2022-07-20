@@ -4,7 +4,7 @@ import Header from './components/Header/Header';
 import Newsletter from './components/Newsletter/Newsletter';
 import Services from './components/Services/Services';
 import Work from './components/Work/Work';
-import WorkProcess from './components/WorkProcess/WorkProcess';
+// import WorkProcess from './components/WorkProcess/WorkProcess';
 import About from './components/About/About';
 import Testimonials from './components/Testimonials/Testimonials';
 import Contact from './components/Contact/Contact';
@@ -16,10 +16,10 @@ function App() {
       <Header />
       <Services />
       <Work />
-      <WorkProcess />
-      <Newsletter />
+      {/* <WorkProcess /> */}
+      {/* <Newsletter /> */}
       <About />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <Contact />
       <Footer />
     </div>

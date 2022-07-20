@@ -12,7 +12,7 @@ const Services = () => {
                     <p className='text'>I offer the right solutions for your digital business.</p>
                 </div>
 
-                <div className='services-list grid'>
+                <div className='services-list'>
                     {
                         services.map((service, index) => {
                             return (

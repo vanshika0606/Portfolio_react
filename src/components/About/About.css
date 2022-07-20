@@ -9,6 +9,9 @@
     margin-left: auto;
     margin-right: auto;
 }
+.about-img{
+    border-radius: 50%;
+}
 .about-item-icon{
     margin-right: 24px;
 }
